@@ -1,17 +1,17 @@
 # node-do-0
-[X] Servidor HTTP nativo.
-[X] API REST
-  [X] Fastify
-  [X] CRUD
-    [X] Rotas
-    [X] Request Body
-    [X] Route parameters
-    [X] Query parameters
-  [X] Banco de dados em memória
-  [X] Banco de dados (Neon)
-    [X] PostgresJS
-[X] Deploy do projeto
-  [X] Render
+[x] Servidor HTTP nativo.
+[x] API REST
+  [x] Fastify
+  [x] CRUD
+    [x] Rotas
+    [x] Request Body
+    [x] Route parameters
+    [x] Query parameters
+  [x] Banco de dados em memória
+  [x] Banco de dados (Neon)
+    [x] PostgresJS
+[x] Deploy do projeto
+  [x] Render
   
 CRUD com API REST utilizando PostgresJS(neon.tech).
 É possível fazer o deploy pelo Neon(render.com).
